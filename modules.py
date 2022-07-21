@@ -1,0 +1,3 @@
+import usefull_tools_for_modules
+
+print(usefull_tools_for_modules.roll_dice(10))
